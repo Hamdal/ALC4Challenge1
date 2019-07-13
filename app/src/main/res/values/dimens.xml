@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="label_info_margin">38dp</dimen>
+    <dimen name="info_vertical_separator">18dp</dimen>
+    <dimen name="height_profile_photo">150dp</dimen>
+    <dimen name="width_profile_photo">150dp</dimen>
+    <dimen name="padding_btn">20dp</dimen>
+</resources>

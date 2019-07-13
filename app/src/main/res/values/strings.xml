@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC4Challenge1</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about_btn_text">About ALC</string>
+    <string name="profile_btn">My profile</string>
+    <string name="my_name">Hameed Abdul-lateef</string>
+    <string name="label_track">Track:</string>
+    <string name="label_country">Country:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_phone">Phone Number:</string>
+    <string name="label_slack">Slack Username:</string>
+    <string name="track_label_value">Android</string>
+    <string name="country_label_value">Nigeria</string>
+    <string name="email_label_value">Hameedayomide@gmail.com</string>
+    <string name="phone_label_value">2348109833271</string>
+    <string name="slack_label_value">\@Ayomide</string>
+</resources>
